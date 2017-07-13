@@ -8,7 +8,13 @@ import Home from './views/Home'
 import Category from './views/Category'
 import Shopcar from './views/Shopcar'
 import Mine from './views/Mine'
-
+import Payment from './views/MIN/Payment'
+import One from './views/MIN/tuo/one'
+import tuo from './views/MIN/tuo/tuo'
+import three from './views/MIN/tuo/three'
+import four from './views/MIN/tuo/four'
+import five from './views/MIN/tuo/five'
+import Fightgroups from './views/MIN/Fightgroups'
 Vue.use(VueRouter)
 Vue.use(VueResource)
 
@@ -20,6 +26,23 @@ const routes=[
   {path:'/category',component:Category},
   {path:'/shopcar',component:Shopcar},
   {path:'/mine',component:Mine},
+  {path:'/Fightgroups',component:Fightgroups, children:[
+		{path:'one',component:One},
+		{path:'tuo',component:tuo},
+		{path:'three',component:three},
+		{path:'four',component:four},
+		{path:'five',component:five},
+  ] 
+  },
+ 
+  {path:'/Payment',component:Payment, children:[
+		{path:'one',component:One},
+		{path:'tuo',component:tuo},
+		{path:'three',component:three},
+		{path:'four',component:four},
+		{path:'five',component:five},
+  ]
+  }
 ]
 
 
