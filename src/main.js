@@ -9,7 +9,7 @@ import Category from './views/Category'
 import Shopcar from './views/Shopcar'
 import Mine from './views/Mine'
 import dizhi from './views/MIN/dizhi'
-import MI from './views/MIN/MI'
+import zi from './views/MIN/Collection/zi'
 import Payment from './views/MIN/Payment'
 import One from './views/MIN/tuo/one'
 import tuo from './views/MIN/tuo/tuo'
@@ -32,7 +32,7 @@ const routes=[
   {path:'/shopcar',component:Shopcar},
   {path:'/mine',component:Mine},
   {path:'/dizhi',component:dizhi},
-  {path:'/MI',component:MI},
+  {path:'/zi',component:zi},
   {path:'/collection',component:collection , children:[
 		{path:'xi',component:xi},
 		{path:'shang',component:shang},
