@@ -4,35 +4,35 @@
       	<img src="http://s3.mogucdn.com/mlcdn/5abf39/170628_3a6dhd63955glla03a0eh0cifka40_224x224.jpg_170x170.jpg ">
       	<ul>
       		<p>啊无痕</p>
-      		<p>我的收货地址        >   </p>
+      		<p><router-link to="dizhi"> 我的收货地址        >  </router-link> </p>
       	</ul>
       </div>
       
       <ul class="head1">
       	<img src="https://s10.mogucdn.com/p1/160727/upload_ie4wenzume4tsmjqmezdambqgqyde_56x56.png">
-      	<p> 我的订单  <span> > </span> </p>
+      	<p><router-link to="Payment/one">  我的订单  <span> > </span> 	</router-link></p>
       </ul>
       <ul class="head2">
       	<li>
-      		 <router-link to="Payment">        
+      		 <router-link to="Payment/tuo">        
       		<p><img src="https://s10.mogucdn.com/p1/160829/idid_ifqwcmddgrswkzdbmezdambqgyyde_38x33.png"></p>
       		<p>待付款</p>
       		</router-link>
       	</li>
       	<li>
-      		<router-link to="Payment">    
+      		<router-link to="Payment/three">    
       		<p><img src="https://s10.mogucdn.com/p1/160829/idid_ie4dcoddmnswkzdbmezdambqgiyde_38x36.png"></p>
       		<p>待收货</p>
       		</router-link>
       	</li>
       	<li>
-      		<router-link to="Payment">    
+      		<router-link to="Payment/four">    
       		<p><img src="https://s10.mogucdn.com/p1/160830/idid_ie4gimztheygcmdcmezdambqgiyde_38x36.png"></p>
       		<p>待评价</p>
       		</router-link>
       	</li>
       	<li>
-      		<router-link to="Payment">    
+      		<router-link to="Payment/five">    
       		<p><img src="https://s10.mogucdn.com/p1/160829/idid_ie3wezbvhbtgkzdbmezdambqgayde_38x35.png"></p>
       		<p>售后</p>
       		</router-link>    
@@ -57,11 +57,11 @@
       	</li>
       	<li>
       		<p><img src="//s16.mogucdn.com/p1/160727/upload_ifqtsndeg43gkmrqmezdambqgyyde_56x56.png"></p>
-      		<div><p> 我收藏的商品 <span> > </span></p></div>
+      		<div><router-link to="collection/xi"><p> 我收藏的商品 <span> > </span></p></router-link></div>
       	</li>
       	<li>
       		<p><img src="//s17.mogucdn.com/p1/160727/upload_ie4wmy3gmq3wkmrqmezdambqgqyde_56x56.png"></p>
-      		<div><p> 我收藏的店铺 <span> > </span></p></div>
+      		<div><router-link to="collection/shang"><p> 我收藏的店铺 <span> > </span></p></router-link></div>
       	</li>
       	<li class="head4">
       		<img src="https://s10.mogucdn.com/p2/170217/79944927_03dfe3a4b2fg9kd5849093d56ib14_750x130.png">
@@ -95,7 +95,7 @@
         name: 'mine',
         data () {
             return {
-                name: '我是mine'
+              
             }
         }
     }

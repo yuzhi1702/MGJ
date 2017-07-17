@@ -1,6 +1,6 @@
 <template>
     <div id="Fightgroups">
-   		<li class="payment"> <span><router-link to="mine"> < </router-link>  </span><p>我的拼团</p> <img src="https://s2.mogucdn.com/p2/170315/40592144_67ja8jj102089fj6djai0l6khb0h5_44x44.png">   </li>
+   		<li class="payment"> <span><router-link to="/mine"> < </router-link>  </span><p>我的拼团</p> <img src="https://s2.mogucdn.com/p2/170315/40592144_67ja8jj102089fj6djai0l6khb0h5_44x44.png">   </li>
    
         <ul class="payment1">
         	<li><router-link to="/Fightgroups/one">全部</router-link></li>
@@ -39,4 +39,8 @@
 .payment img{ float: right;width: .25rem;height: .25rem;margin-right: .2rem;margin-top: .15rem;}
 .payment1{ width: 100%;height: .45rem; border-bottom: 1px solid lightblue;}
 .payment1 li{ width: 20%;height: 100%;float: left; text-align: center;line-height: .45rem;}
+.payment1 li .router-link-active{
+	color: red;
+	border-bottom: 1px solid red;
+}
 </style>
