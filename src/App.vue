@@ -5,25 +5,25 @@
     <div id="tab">
       <ul>
         <li>
-          <router-link to="home">          	
+          <router-link to="/home">          	
           	<div><img src="https://s2.mogucdn.com/p2/170315/40592144_5a62k5aecifecf3iaddc0eb2l384b_44x44.png"></div>
           	<div>首页</div>
           </router-link>
         </li>
         <li>
-          <router-link to="category">
+          <router-link to="/category">
           	<div><img src="https://s2.mogucdn.com/p2/170315/40592144_0b8i11l822b0adfjaaifl11ig86f1_44x44.png"></div>
           	<div>分类</div>
           </router-link>
         </li>
         <li>
-          <router-link to="shopcar">
+          <router-link to="/shopcar">
           	<div><img src="https://s2.mogucdn.com/p2/170315/40592144_67ja8jj102089fj6djai0l6khb0h5_44x44.png"></div>
           	<div>购物车</div>
           </router-link>
         </li>
         <li>
-          <router-link to="mine">
+          <router-link to="/mine">
           	<div><img src="https://s2.mogucdn.com/p2/170315/40592144_4aba4gee9khhe66df2723085cg75h_44x44.png"></div>
           	<div>我的</div>
           </router-link>
@@ -78,6 +78,9 @@ export default {
   font-size: .14rem;
  
   text-align: center;
+}
+#tab li .router-link-active{
+	color: red;
 }
 #tab li div img{width: .2rem;height: .2rem;margin-top: .15rem;}
 </style>

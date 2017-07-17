@@ -1,30 +1,23 @@
 <template>
-    <div id="Payment">
-   		<li class="payment"> <span><router-link to="/mine"> < </router-link>  </span><p>我的订单</p> <img src="https://s2.mogucdn.com/p2/170315/40592144_67ja8jj102089fj6djai0l6khb0h5_44x44.png">   </li>
-   
-        <ul class="payment1">
-        	<li ><router-link to="/Payment/one" >全部</router-link></li>
-        	<li><router-link to="/Payment/tuo">待付款</router-link></li>
-        	<li><router-link to="/Payment/three">待收货</router-link></li>
-        	<li><router-link to="/Payment/four">带评价</router-link></li>
-        	<li><router-link to="/Payment/five">售后</router-link></li>
-        </ul>
-        <img src="https://s10.mogucdn.com/new1/v1/bmisc/b22401c122fbedee3b1f5d708127e9f0/194500731154.png">
-        <p>没有相应的商品</p>
-    	<router-view></router-view>
-		<one></one>
-		<tuo></tuo>
-		<three></three>
-		<four></four>
-		<five></five>
-    
+    <div id="MI">
+ <form action="" method="post">
+	<label for="account">精品集账号</label>
+	<input type="text" name="" id="account" ng-model='account' placeholder="输入用户名/邮箱/手机号"/>
+	<label for="password">密码</label>
+	<input type="password" name="" id="password" ng-model='password' placeholder="输入密码"/>
+	<input type="button" value="登录" ng-click='login()'/>
+</form>
+<div class="clear login-way">
+	<a href="" class="fl" ui-sref="loginWithoutPassword">免密登录</a>
+	<a href="" class="fr" ui-sref="register">注册账号</a>
+</div>
     </div>
 </template>
 
 <script>
 //	import one from './views/MIN/tuo/one'
     export default {
-        name: 'Payment',
+        name: 'MI',
         data () {
             return {
               

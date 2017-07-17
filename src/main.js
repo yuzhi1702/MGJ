@@ -8,6 +8,8 @@ import Home from './views/Home'
 import Category from './views/Category'
 import Shopcar from './views/Shopcar'
 import Mine from './views/Mine'
+import dizhi from './views/MIN/dizhi'
+import MI from './views/MIN/MI'
 import Payment from './views/MIN/Payment'
 import One from './views/MIN/tuo/one'
 import tuo from './views/MIN/tuo/tuo'
@@ -15,9 +17,15 @@ import three from './views/MIN/tuo/three'
 import four from './views/MIN/tuo/four'
 import five from './views/MIN/tuo/five'
 import Fightgroups from './views/MIN/Fightgroups'
+<<<<<<< HEAD
 import Detail from './components/Detail'
 import Altens from './components/Altens'
 
+=======
+import collection from './views/MIN/collection'
+import xi from './views/MIN/Collection/xi'
+import shang from './views/MIN/Collection/shang'
+>>>>>>> fe56a2f7a55382026002513bac3ee602f75ff99f
 Vue.use(VueRouter)
 Vue.use(VueResource)
 
@@ -29,8 +37,20 @@ const routes=[
   {path:'/category',component:Category},
   {path:'/shopcar',component:Shopcar},
   {path:'/mine',component:Mine},
+<<<<<<< HEAD
   {path:'/detail',component:Detail},
   {path:'/Altens',component:Altens},
+=======
+  {path:'/dizhi',component:dizhi},
+  {path:'/MI',component:MI},
+  {path:'/collection',component:collection , children:[
+		{path:'xi',component:xi},
+		{path:'shang',component:shang},
+   ]
+  
+  
+  },
+>>>>>>> fe56a2f7a55382026002513bac3ee602f75ff99f
   {path:'/Fightgroups',component:Fightgroups, children:[
 		{path:'one',component:One},
 		{path:'tuo',component:tuo},
