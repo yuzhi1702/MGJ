@@ -15,6 +15,9 @@ import three from './views/MIN/tuo/three'
 import four from './views/MIN/tuo/four'
 import five from './views/MIN/tuo/five'
 import Fightgroups from './views/MIN/Fightgroups'
+import Detail from './components/Detail'
+import Altens from './components/Altens'
+
 Vue.use(VueRouter)
 Vue.use(VueResource)
 
@@ -26,6 +29,8 @@ const routes=[
   {path:'/category',component:Category},
   {path:'/shopcar',component:Shopcar},
   {path:'/mine',component:Mine},
+  {path:'/detail',component:Detail},
+  {path:'/Altens',component:Altens},
   {path:'/Fightgroups',component:Fightgroups, children:[
 		{path:'one',component:One},
 		{path:'tuo',component:tuo},
@@ -35,16 +40,15 @@ const routes=[
   ] 
   },
  
-  {path:'/Payment',component:Payment, children:[
+{path:'/Payment',component:Payment, children:[
 		{path:'one',component:One},
 		{path:'tuo',component:tuo},
 		{path:'three',component:three},
 		{path:'four',component:four},
 		{path:'five',component:five},
-  ]
-  }
 ]
-
+}
+]
 
 const router=new VueRouter({
   routes

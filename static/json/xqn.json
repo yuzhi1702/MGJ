@@ -1,0 +1,569 @@
+{
+    "data": {
+        "userInfo": {
+            "admin": false,
+            "isLogin": false,
+            "isSelf": false,
+            "sellerId": "13gpqak",
+            "shopId": "1ocros",
+            "userId": "13gpqak"
+        },
+        "shopInfo": {
+            "cFans": 23899,
+            "cGoods": 0,
+            "cSells": 106832,
+            "categories": [
+                {
+                    "link": "http://shop.mogujie.com/1ocros/list/index?categoryId=20106563",
+                    "name": "连衣裙"
+                },
+                {
+                    "link": "http://shop.mogujie.com/1ocros/list/index?categoryId=20186413",
+                    "name": "T恤"
+                },
+                {
+                    "link": "http://shop.mogujie.com/1ocros/list/index?categoryId=20186415",
+                    "name": "半身裙"
+                },
+                {
+                    "link": "http://shop.mogujie.com/1ocros/list/index?categoryId=20186417",
+                    "name": "衬衫"
+                },
+                {
+                    "link": "http://shop.mogujie.com/1ocros/list/index?categoryId=20186443",
+                    "name": "牛仔裤"
+                },
+                {
+                    "link": "http://shop.mogujie.com/1ocros/list/index?categoryId=20186445",
+                    "name": "休闲裤"
+                },
+                {
+                    "link": "http://shop.mogujie.com/1ocros/list/index?categoryId=20186608",
+                    "name": "雪纺衫/蕾丝衫"
+                },
+                {
+                    "link": "http://shop.mogujie.com/1ocros/list/index?categoryId=20186750",
+                    "name": "短裤"
+                },
+                {
+                    "link": "http://shop.mogujie.com/1ocros/list/index?categoryId=20187859",
+                    "name": "时尚套装"
+                }
+            ],
+            "isMarked": false,
+            "level": 4,
+            "name": "朱朱定制",
+            "score": [
+                {
+                    "isBetter": true,
+                    "name": "描述相符",
+                    "score": 4.57
+                },
+                {
+                    "isBetter": true,
+                    "name": "价格合理",
+                    "score": 4.54
+                },
+                {
+                    "isBetter": true,
+                    "name": "质量满意",
+                    "score": 4.53
+                }
+            ],
+            "services": [
+                {
+                    "icon": "http://s11.mogucdn.com/p2/161121/upload_804deld49f8i13gb2gdji12k6h9h2_60x60.png",
+                    "name": "退货补运费"
+                },
+                {
+                    "icon": "http://s2.mogucdn.com/p2/161121/upload_4c9fi653lcljc0ig512il61jh3ljl_60x60.png",
+                    "name": "全国包邮"
+                },
+                {
+                    "icon": "http://s2.mogucdn.com/p2/161121/upload_69l7gg2aeb5jb1k0g5l785gdhk7g0_60x60.png",
+                    "name": "7天无理由退货"
+                },
+                {
+                    "icon": "http://s3.mogucdn.com/p2/161121/upload_8fak1807jfee78jjh49f146g09hc5_60x60.png",
+                    "name": "72小时发货"
+                }
+            ],
+            "shopId": "1ocros",
+            "shopLogo": "http://s11.mogucdn.com/p1/150905/1qcv4i_ie2gcyrrha4dcnbxgmzdambqgiyde_200x200.jpg",
+            "shopUrl": "http://m.mogujie.com/v8/meili/shop?shopid=1ocros",
+            "type": 1,
+            "userId": "13gpqak"
+        },
+        "rateInfo": {
+            "cRate": 7,
+            "imgTotal": 2,
+            "list": [
+                {
+                    "canExplain": false,
+                    "content": "衣服穿起来很漂亮，质量也很好哦，不错，么么哒\r\n",
+                    "contentId": 50834449,
+                    "created": 1499524671,
+                    "extraInfo": [
+                        "是否合身:合身"
+                    ],
+                    "images": [
+                        "http://s3.mogucdn.com/mlcdn/c45406/170708_17k64c1gg2795i8gl1ald72ai2a88_750x779.jpg",
+                        "http://s3.mogucdn.com/mlcdn/c45406/170708_04fd2jbfge062e000igehhdlidfgg_750x789.jpg"
+                    ],
+                    "isAnonymous": 1,
+                    "isBuyerShow": true,
+                    "isEmpty": 1,
+                    "level": "",
+                    "rateId": "1vqinu6",
+                    "sizeInfo": {
+                        "desc": "合身 "
+                    },
+                    "style": "颜色:条纹上衣 尺码:M ",
+                    "user": {
+                        "avatar": "http://s3.mogucdn.com/p1/160105/idid_ifrwenjuhfsggntfguzdambqhayde_160x160.jpg",
+                        "profileUrl": "",
+                        "tagIndex": "",
+                        "uname": "g***0"
+                    }
+                },
+                {
+                    "canExplain": false,
+                    "content": "质量很好",
+                    "created": 1500226397,
+                    "extraInfo": [
+                        "体重:45.0 kg",
+                        "是否合身:合身",
+                        "身高:165.0 cm"
+                    ],
+                    "isAnonymous": 1,
+                    "isBuyerShow": false,
+                    "isEmpty": 1,
+                    "level": "",
+                    "rateId": "1vvv5n4",
+                    "sizeInfo": {
+                        "weight": "45.0 kg",
+                        "height": "165.0 cm",
+                        "desc": "合身 "
+                    },
+                    "style": "颜色:条纹上衣+蓝色短裤 尺码:M ",
+                    "user": {
+                        "avatar": "http://s11.mogucdn.com/p1/160105/idid_ifrtgyjxmjrwgntfguzdambqhayde_160x160.jpg",
+                        "profileUrl": "",
+                        "tagIndex": "",
+                        "uname": "将***H"
+                    }
+                }
+            ],
+            "rateTags": [
+                {
+                    "emotion": "positive",
+                    "num": 2,
+                    "property": "图片",
+                    "value": "有图片"
+                },
+                {
+                    "emotion": "positive",
+                    "num": 6,
+                    "property": "质量",
+                    "value": "质量很好"
+                }
+            ],
+            "sales": 460
+        },
+        "detailInfo": {
+            "desc": "每一个面料 每一个细节，好品质会让第二层肌肤更出色，关注店铺更多惊喜等着您",
+            "detailImage": [
+                {
+                    "anchor": "model_img",
+                    "desc": "",
+                    "key": "穿着效果",
+                    "list": [
+                        "http://s3.mogucdn.com/mlcdn/c45406/170623_6khhkkc48jf78ffjl50gk5l9jbh03_700x700.png",
+                        "http://s3.mogucdn.com/mlcdn/c45406/170623_5173lcah7laccd4f4j035c33f8fj0_700x700.png",
+                        "http://s3.mogucdn.com/mlcdn/c45406/170623_68if50215gld82iafk9d0jl5ak0b0_700x700.png",
+                        "http://s3.mogucdn.com/mlcdn/c45406/170623_21ddbf9bc82f56g31cl0a3ifg9a5c_700x700.png",
+                        "http://s3.mogucdn.com/mlcdn/c45406/170623_4b8b640a0igch3f09g65d81j9i2h3_700x700.png"
+                    ]
+                },
+                {
+                    "anchor": "baipai_img2",
+                    "desc": "",
+                    "key": "整体款式",
+                    "list": [
+                        "http://s2.mogucdn.com/mlcdn/c45406/170623_80bhl5aji52a6jg1868449g6fe4j4_640x960.jpg",
+                        "http://s3.mogucdn.com/mlcdn/c45406/170623_59l3djd1f90kk6b15h64ehf132cil_700x700.png",
+                        "http://s2.mogucdn.com/mlcdn/c45406/170623_3e5i1k1fb7g5ce10jf152c83dkb6i_700x700.png",
+                        "http://s3.mogucdn.com/mlcdn/c45406/170623_309afl467a4d959ad741lfkeeg64e_700x700.png",
+                        "http://s3.mogucdn.com/mlcdn/c45406/170623_7ka2ceb0e7llehahkklh53c32lf0k_700x700.png"
+                    ]
+                },
+                {
+                    "anchor": "detail_img",
+                    "desc": "",
+                    "key": "细节做工",
+                    "list": [
+                        "http://s3.mogucdn.com/mlcdn/c45406/170623_843c7b42d06feh74icg042l2dkdgl_750x738.png",
+                        "http://s3.mogucdn.com/mlcdn/c45406/170623_54gbcghjc20g1di456b557cki3468_700x700.png",
+                        "http://s3.mogucdn.com/p2/170317/77101615_6f3ak83kkl00329ged9249aa93ifb_1125x285.jpg"
+                    ]
+                }
+            ]
+        },
+        "itemInfo": {
+            "cFav": 0,
+            "desc": "每一个面料 每一个细节，好品质会让第二层肌肤更出色，关注店铺更多惊喜等着您",
+            "highNowPrice": "69.43",
+            "highPrice": "115.72",
+            "isFaved": false,
+            "itemId": "1kedn08",
+            "lowNowPrice": "42.00",
+            "lowPrice": "70.00",
+            "saleStartTime": 0,
+            "saleType": 0,
+            "seo": {
+                "keywords": "夏季韩版圆领条纹针织短袖T恤百搭毛边贴布高腰牛仔短裤套装女",
+                "wap_url": "http://m.mogujie.com/x6/detail/1kedn08",
+                "description": "来自蘑菇街优店时尚套装_套装/学生校服/工作制服_女装_服饰鞋包家每一个面料 每一个细节，好品质会让第二层肌肤更出色，关注店铺更多惊喜等着您的夏季韩版圆领条纹针织短袖T恤百搭毛边贴布高腰牛仔短裤套装女，发现当季衣服和朱朱定制搭配心得。",
+                "alternate": "http://m.mogujie.com/x6/detail/1kedn08",
+                "links": "null",
+                "canonical": "http://shop.mogujie.com/detail/1kedn08",
+                "seo_noindex": "0",
+                "title": "【夏季韩版圆领条纹针织短袖T恤百搭毛边贴布高腰牛仔短裤套装女】-衣服-时尚套装_套装/学生校服/工作制服_女装_服饰鞋包-朱朱定制-蘑菇街优店"
+            },
+            "state": 0,
+            "title": "夏季韩版圆领条纹针织短袖T恤百搭毛边贴布高腰牛仔短裤套装女"
+        },
+        "platformCoupons": {
+            "coupons": [
+                {
+                    "accessoryTitle": "领券",
+                    "iconTitle": "盛夏专享",
+                    "img": "http://s11.mogucdn.com/p2/160928/upload_36624h702085dj9fcgec5g4a7hhgd_50x16.png",
+                    "linkUrl": "http://act.mogujie.com/715/zhuhuichang",
+                    "tagBgColor": "#ff4b33",
+                    "tagTextColor": "#ffffff",
+                    "title": "满89元减15元,满149元减30元",
+                    "useTimeDesc": "有效期2017.07.15~2017.07.18"
+                }
+            ]
+        },
+        "topImages": [
+            "http://s3.mogucdn.com/mlcdn/c45406/170623_6i9g43df20a569511644hkjkf1b6b_640x960.jpg",
+            "http://s3.mogucdn.com/mlcdn/c45406/170623_4dji0gla1c02ah06ll85egc0lc8i6_640x960.jpg",
+            "http://s2.mogucdn.com/mlcdn/c45406/170623_67ee49cf9l2596a1501ejbhhgcc4l_640x960.jpg",
+            "http://s3.mogucdn.com/mlcdn/c45406/170623_817d7i3i07k56g58kg37hhdc2c55d_640x960.jpg",
+            "http://s3.mogucdn.com/mlcdn/c45406/170623_7f0ecf9bj079924bjfj3f9b78heii_640x960.jpg"
+        ],
+        "normalShareInfo": {
+            "content": "亲爱的～这件宝贝不错哦，快进来看看吧～",
+            "imageUrl": "http://s3.mogucdn.com/mlcdn/c45406/170623_6i9g43df20a569511644hkjkf1b6b_640x960.jpg",
+            "title": "夏季韩版圆领条纹针织短袖T恤百搭毛边贴布高腰牛仔短裤套装女",
+            "url": "//h5.mogujie.com/detail-normal/index.html?itemId=1kedn08&from=share"
+        },
+        "itemParams": {
+            "info": {
+                "anchor": "product_info",
+                "empty": false,
+                "key": "产品参数",
+                "set": {
+                    "厚薄": "普通",
+                    "图案": "条纹",
+                    "颜色": "条纹上衣+蓝色短裤,条纹上衣,蓝色短裤",
+                    "袖型": "常规袖",
+                    "尺码": "S,L,M",
+                    "衣长": "常规款（51-65cm）",
+                    "季节": "夏季",
+                    "材质": "其他",
+                    "元素": "磨破",
+                    "领型": "圆领",
+                    "袖长": "短袖",
+                    "款式": "衣裤套装",
+                    "风格": "街头",
+                    "潮流": "韩系"
+                }
+            },
+            "rule": {
+                "anchor": "size_info",
+                "disclaimer": "※ 以上尺寸为实物人工测量，因测量方式不同会有1-2cm误差，相关数据仅作参考，以收到实物为准。",
+                "empty": false,
+                "key": "尺码说明",
+                "tables": [
+                    [
+                        [
+                            "尺码",
+                            "胸围",
+                            "腰围",
+                            "袖长",
+                            "裤长",
+                            "衣长"
+                        ],
+                        [
+                            "S",
+                            "74-120",
+                            "66",
+                            "28",
+                            "33",
+                            "59"
+                        ],
+                        [
+                            "M",
+                            "74-120",
+                            "69",
+                            "28",
+                            "34",
+                            "59"
+                        ],
+                        [
+                            "L",
+                            "74-120",
+                            "72",
+                            "28",
+                            "35",
+                            "59"
+                        ]
+                    ]
+                ]
+            }
+        },
+        "normalCountdown": {
+            "countdown": 32274,
+            "image": "https://s10.mogucdn.com/mlcdn/c45406/170714_71dj25057k47ibh147jhahe6il5l8_1125x120.png",
+            "isCountdomShow": true,
+            "text": "距结束仅剩",
+            "titleColor": "#ffffff"
+        },
+        "normalPrice": {
+            "currency": "¥",
+            "highNowPrice": "69.43",
+            "nowPrice": "42.00",
+            "oldPrice": "70.00",
+            "priceColor": "#333333",
+            "priceSplit": "~",
+            "priceTags": [
+                {
+                    "bgColor": "#FFE8EE",
+                    "text": "狂欢价",
+                    "textColor": "#FF2255"
+                }
+            ]
+        },
+        "itemServices": {
+            "columns": [
+                {
+                    "desc": "销量 460",
+                    "icon": "http://s3.mogucdn.com/p1/161117/idid_ifrdkytcgbstoobummzdambqmeyde_512x512.png",
+                    "name": "sales"
+                },
+                {
+                    "desc": "免邮费",
+                    "icon": "http://s3.mogucdn.com/p1/161117/idid_ifqwgnbsmjsdoobummzdambqgyyde_512x512.png",
+                    "name": "express"
+                }
+            ],
+            "services": [
+                {
+                    "icon": "http://s11.mogucdn.com/p2/161121/upload_804deld49f8i13gb2gdji12k6h9h2_60x60.png",
+                    "name": "退货补运费"
+                },
+                {
+                    "icon": "http://s2.mogucdn.com/p2/161121/upload_4c9fi653lcljc0ig512il61jh3ljl_60x60.png",
+                    "name": "全国包邮"
+                },
+                {
+                    "icon": "http://s2.mogucdn.com/p2/161121/upload_69l7gg2aeb5jb1k0g5l785gdhk7g0_60x60.png",
+                    "name": "7天无理由退货"
+                },
+                {
+                    "icon": "http://s3.mogucdn.com/p2/161121/upload_8fak1807jfee78jjh49f146g09hc5_60x60.png",
+                    "name": "72小时发货"
+                }
+            ]
+        },
+        "skuInfo": {
+            "canInstallment": false,
+            "defaultPrice": "¥42.00~¥69.43",
+            "priceRange": "¥42.00~¥69.43",
+            "props": [
+                {
+                    "default": false,
+                    "label": "颜色",
+                    "list": [
+                        {
+                            "default": false,
+                            "index": 1,
+                            "name": "条纹上衣",
+                            "styleId": 1,
+                            "type": "style"
+                        },
+                        {
+                            "default": false,
+                            "index": 2,
+                            "name": "蓝色短裤",
+                            "styleId": 2,
+                            "type": "style"
+                        },
+                        {
+                            "default": false,
+                            "index": 3,
+                            "name": "条纹上衣+蓝色短裤",
+                            "styleId": 3,
+                            "type": "style"
+                        }
+                    ]
+                },
+                {
+                    "default": false,
+                    "label": "尺码",
+                    "list": [
+                        {
+                            "default": false,
+                            "index": 100,
+                            "name": "S",
+                            "sizeId": 100,
+                            "type": "size"
+                        },
+                        {
+                            "default": false,
+                            "index": 101,
+                            "name": "M",
+                            "sizeId": 101,
+                            "type": "size"
+                        },
+                        {
+                            "default": false,
+                            "index": 102,
+                            "name": "L",
+                            "sizeId": 102,
+                            "type": "size"
+                        }
+                    ]
+                }
+            ],
+            "sizeKey": "尺码",
+            "skus": [
+                {
+                    "currency": "¥",
+                    "img": "http://s2.mogucdn.com/mlcdn/c45406/170623_641b485k2c5gdg8ha550c5kjdjggd_640x960.jpg",
+                    "nowprice": 4200,
+                    "price": 7000,
+                    "size": "S",
+                    "sizeId": 100,
+                    "stock": 906,
+                    "stockId": "1s81exe",
+                    "style": "条纹上衣",
+                    "styleId": 1,
+                    "xdSkuId": "1s81exe"
+                },
+                {
+                    "currency": "¥",
+                    "img": "http://s2.mogucdn.com/mlcdn/c45406/170623_641b485k2c5gdg8ha550c5kjdjggd_640x960.jpg",
+                    "nowprice": 4200,
+                    "price": 7000,
+                    "size": "M",
+                    "sizeId": 101,
+                    "stock": 952,
+                    "stockId": "1s81exg",
+                    "style": "条纹上衣",
+                    "styleId": 1,
+                    "xdSkuId": "1s81exg"
+                },
+                {
+                    "currency": "¥",
+                    "img": "http://s2.mogucdn.com/mlcdn/c45406/170623_641b485k2c5gdg8ha550c5kjdjggd_640x960.jpg",
+                    "nowprice": 4200,
+                    "price": 7000,
+                    "size": "L",
+                    "sizeId": 102,
+                    "stock": 951,
+                    "stockId": "1s81exi",
+                    "style": "条纹上衣",
+                    "styleId": 1,
+                    "xdSkuId": "1s81exi"
+                },
+                {
+                    "currency": "¥",
+                    "img": "http://s3.mogucdn.com/mlcdn/c45406/170623_62g7hge3d65b3b2h9467fkbalf062_640x960.jpg",
+                    "nowprice": 5057,
+                    "price": 8429,
+                    "size": "S",
+                    "sizeId": 100,
+                    "stock": 993,
+                    "stockId": "1s81exk",
+                    "style": "蓝色短裤",
+                    "styleId": 2,
+                    "xdSkuId": "1s81exk"
+                },
+                {
+                    "currency": "¥",
+                    "img": "http://s3.mogucdn.com/mlcdn/c45406/170623_62g7hge3d65b3b2h9467fkbalf062_640x960.jpg",
+                    "nowprice": 5057,
+                    "price": 8429,
+                    "size": "M",
+                    "sizeId": 101,
+                    "stock": 990,
+                    "stockId": "1s81exm",
+                    "style": "蓝色短裤",
+                    "styleId": 2,
+                    "xdSkuId": "1s81exm"
+                },
+                {
+                    "currency": "¥",
+                    "img": "http://s3.mogucdn.com/mlcdn/c45406/170623_62g7hge3d65b3b2h9467fkbalf062_640x960.jpg",
+                    "nowprice": 5057,
+                    "price": 8429,
+                    "size": "L",
+                    "sizeId": 102,
+                    "stock": 997,
+                    "stockId": "1s81exo",
+                    "style": "蓝色短裤",
+                    "styleId": 2,
+                    "xdSkuId": "1s81exo"
+                },
+                {
+                    "currency": "¥",
+                    "img": "http://s3.mogucdn.com/mlcdn/c45406/170623_1diae0hd930dfjf1k69474agi4370_640x960.jpg",
+                    "nowprice": 6943,
+                    "price": 11572,
+                    "size": "S",
+                    "sizeId": 100,
+                    "stock": 934,
+                    "stockId": "1s81exq",
+                    "style": "条纹上衣+蓝色短裤",
+                    "styleId": 3,
+                    "xdSkuId": "1s81exq"
+                },
+                {
+                    "currency": "¥",
+                    "img": "http://s3.mogucdn.com/mlcdn/c45406/170623_1diae0hd930dfjf1k69474agi4370_640x960.jpg",
+                    "nowprice": 6943,
+                    "price": 11572,
+                    "size": "M",
+                    "sizeId": 101,
+                    "stock": 879,
+                    "stockId": "1s81exs",
+                    "style": "条纹上衣+蓝色短裤",
+                    "styleId": 3,
+                    "xdSkuId": "1s81exs"
+                },
+                {
+                    "currency": "¥",
+                    "img": "http://s3.mogucdn.com/mlcdn/c45406/170623_1diae0hd930dfjf1k69474agi4370_640x960.jpg",
+                    "nowprice": 6943,
+                    "price": 11572,
+                    "size": "L",
+                    "sizeId": 102,
+                    "stock": 934,
+                    "stockId": "1s81exu",
+                    "style": "条纹上衣+蓝色短裤",
+                    "styleId": 3,
+                    "xdSkuId": "1s81exu"
+                }
+            ],
+            "styleKey": "颜色",
+            "totalStock": 8536
+        }
+    },
+    "message": "",
+    "returnCode": "1001",
+    "success": true
+}
